@@ -6,3 +6,5 @@ description: CLI verification test skill (text-only).
 A skill used to test GitHub binding + verification.
 
 verification: YKZFWUTYE
+
+更新说明: v3
